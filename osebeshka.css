@@ -1,0 +1,17 @@
+body{ 
+    background-color: rgb(53, 121, 184); 
+} 
+.bg-yellow { 
+    background: rgb(59, 196, 82); 
+ 
+} 
+ 
+.bg-green { 
+    background: rgb(70, 234, 106) 
+ 
+} 
+ 
+.bg-red { 
+    background: rgb(65, 221, 135); 
+ 
+}

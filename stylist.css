@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(118, 143, 223);
+}
+.card {
+    background: rgb(59, 163, 94);
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    
+
+}
